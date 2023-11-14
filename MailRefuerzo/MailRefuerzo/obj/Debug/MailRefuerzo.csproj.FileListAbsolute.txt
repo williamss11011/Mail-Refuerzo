@@ -1,0 +1,11 @@
+c:\users\wmarcillo\documents\visual studio 2015\Projects\MailRefuerzo\MailRefuerzo\bin\Debug\MailRefuerzo.exe.config
+c:\users\wmarcillo\documents\visual studio 2015\Projects\MailRefuerzo\MailRefuerzo\bin\Debug\MailRefuerzo.exe
+c:\users\wmarcillo\documents\visual studio 2015\Projects\MailRefuerzo\MailRefuerzo\bin\Debug\MailRefuerzo.pdb
+c:\users\wmarcillo\documents\visual studio 2015\Projects\MailRefuerzo\MailRefuerzo\obj\Debug\MailRefuerzo.csprojResolveAssemblyReference.cache
+c:\users\wmarcillo\documents\visual studio 2015\Projects\MailRefuerzo\MailRefuerzo\obj\Debug\MailRefuerzo.exe
+c:\users\wmarcillo\documents\visual studio 2015\Projects\MailRefuerzo\MailRefuerzo\obj\Debug\MailRefuerzo.pdb
+C:\Users\wmarcillo\Desktop\MailRefuerzo\MailRefuerzo\bin\Debug\MailRefuerzo.exe.config
+C:\Users\wmarcillo\Desktop\MailRefuerzo\MailRefuerzo\bin\Debug\MailRefuerzo.exe
+C:\Users\wmarcillo\Desktop\MailRefuerzo\MailRefuerzo\bin\Debug\MailRefuerzo.pdb
+C:\Users\wmarcillo\Desktop\MailRefuerzo\MailRefuerzo\obj\Debug\MailRefuerzo.exe
+C:\Users\wmarcillo\Desktop\MailRefuerzo\MailRefuerzo\obj\Debug\MailRefuerzo.pdb
